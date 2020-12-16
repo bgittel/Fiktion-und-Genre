@@ -1,0 +1,97 @@
+Nr;Rezension;Werknr;Genrezuordnung_ausgeschrieben;Genrezuordnung_formal;Objektbezug-basal;Objektbezug-basal_Anteil_Orte;Objektbezug-basal_Anteil_Ereignisse;Objektbezug-basal_Anteil_Figuren;Objektbezug-basal_unspezifisch_Orte;Objektbezug-basal_unspezifisch_Ereignisse;Objektbezug-basal_unspezifisch_Figuren;Objektbezug-basal_unspezifisch_gesamt;Objektbezug-basal_Ähnlichkeit;Objektbezug-basal_Genese;Objektbezug-basal_Referenz;Exemplifikation-basal;Exemplifikation-basal_Anteil_Figuren;Exemplifikation-basal_Anteil_Handlung;Exemplifikation-basal_Anteil_Gesellschaft;Exemplifikation-basal_Anteil_Stimmung;Instanziierung-basal;Klassenidentität-basal;Explizite-Wahrheit-basal_Anzahl;Explizite-Wahrheit-basal_ordinal;Reflexive-zeitgeschichtliche-Passagen;Bewertung_expliziter_Wahrheiten;Implizite-Wahrheit-basal;Zeitkritik;Bewertung_impliziter_Wahrheiten;Arg_Auseinandersetzung_impl_expl_Wahrheit;Isomorphie-basal;Identifikation_Autor_Erzählerfigur;Impl_Identifikation_Autor_Erzähler;Ästhetische_Wertung;Thematisierung_Sprache_Stil;Bewertung_Sprache_Stil;Absprechen_Literaturstatus;Universelles_Thema;Epochenspezifisches_Thema;Zeitgeschichtlicher_Problemkontext;Kritik_anderer_Interpretationen;Mangelnder_Realismus;Lob_des_Realismus;Jahr
+ZR-Rez1;Allgemeine Zeitung (München), 02.12.1902, Beilage (Alexander v. Weilen).;0;Roman, Kulturroman unserer Zeit;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;2;1;1;0;0;1;0;0;0;0;1902
+ZR-Rez2;Allgemeine Zeitung (München), 16.01.1904, Beilage (O. B.).;0;Roman, Kulturgemälde;0;5;1;0;4;1;0;4;5;0;0;0;2;1;0;1;0;0;0;0;-;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;0;0;0;1904
+ZR-Rez3;"Das litterarische Echo 5, 7 (1903), Sp. 441-458 (Leo Berg).
+";0;Zeitroman, Kunstroman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;1903
+ZR-Rez4;Der Tag, 19.10.1901 (Julius Hart);0;Berliner Kulturroman, Erziehungsroman, Roman unserer Zeit, Weltanschauungs- und Bekenntnisroman, Sittenroman;0;2;1;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;1;0;0;6;0;1;0;0;0;0;3;1;1;0;0;1;0;0;0;0;1901
+ZR-Rez5;Deutsche Monatsschrift für das gesamte Leben der Gegenwart 1, 3 (1901-1902), S. 448-451 (Carl Busse).;0;Zeitroman, Erziehungsroman;1;4;0;0;4;0;0;4;4;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;3;1;1;0;0;1;0;1;0;0;1901
+ZR-Rez6;Deutsche Worte 21, 10 (1901), S. 312-313.;0;Dichtung, Erziehungsroman, dichterisches Zeitbild;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;4;1;1;0;1;1;0;0;0;0;1901
+ZR-Rez7;Die Neue Zeit 20, 17 (1901-1902), S. 524-531 (H. Ströbel).;0;Erziehungsroman;0;1;1;0;0;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;1901
+ZR-Rez8;Die Umschau 6, 6 (1902), S. 109-110 (Paul Pollack).;0;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;4;0;0;0;0;0;0;0;0;0;1902
+ZR-Rez9;Der Kunstwart 15, 17 (1902), S. 212-213 (E. Kalkschmidt).;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;2;0;0;0;1;0;0;0;0;0;1902
+ZR-Rez10;Literarisches Centralblatt für Deutschland 52, 46, Beilage 22 (1901), Sp. 1905-1909 (Herm. Anders Krüger).;0;Zeitroman;1;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;1901
+ZR-Rez11;Das litterarische Echo 4, 7 (1902), Sp. 449-452 (Heinrich Hart) [part. ident. mit Velhagen & Klasings Monatshefte 16, 4 (1901/1902), S. 470-473];0;Kultur- und Weltanschauungsroman, Erziehungsroman;0;4;2;0;2;2;0;2;4;0;2;0;2;2;0;0;0;0;0;0;-;0;0;5;0;0;0;1;0;0;4;1;1;0;1;0;0;1;0;1;1902
+ZR-Rez12;Literarische Warte 3, 4 (1902), S. 229-232 (Karl Storck).;0;Bekenntnisroman, Verstandesbuch;0;2;0;0;2;0;0;2;2;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;2;1;1;0;0;1;0;0;1;0;1902
+ZR-Rez13;Die Nation 19, 9 (1901-1902), S. 139-140 (Gustav Landauer).;0;Tendenzroman, Schmerzensbuch;0;2;1;0;1;1;0;1;2;0;0;0;0;0;0;0;0;0;0;1;-;0;1;0;0;0;1;0;0;0;3;1;1;0;1;0;0;0;0;1;1901
+ZR-Rez14;Neue Bahnen 13, 7 (1902), S. 450-451.;0;Erziehungsroman, Zeitroman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;3;0;0;0;1;1;0;0;1;0;1902
+ZR-Rez15;Neue deutsche Rundschau 12, 12 (1901), 1281-1283 (Arthur Eloesser).;0;Zeitroman;1;2;1;0;1;1;0;1;2;0;0;0;5;5;0;0;0;0;0;0;-;1;0;0;0;0;0;1;0;0;2;1;1;0;1;0;0;1;0;1;1901
+ZR-Rez16;Preußische Jahrbücher 106, 3 (1901), S. 542-543 (Max Lorenz).;0;"Kultur-Roman, Roman unserer Zeit, ""Erziehungsroman"", Epos";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1901
+ZR-Rez17;Südwestdeutsche Rundschau 1 (1902), 29-30 (Johanna Friedberg).;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;4;0;0;0;1;0;0;0;0;0;1902
+ZR-Rez18;Vossische Zeitung, 20.10.1901, Sonntagsbeilage (S. Lublinski).;0;Zeitroman, Erziehungsroman;1;1;1;0;0;1;0;0;1;0;0;0;7;7;0;0;0;0;0;0;0;0;0;4;0;0;0;1;0;0;4;1;1;0;1;1;0;0;0;0;1901
+ZR-Rez19;Die Zeit (Wien), 30, 383 (1902), S. 70-71 (Richard Maria Werner).;0;Erzählung, Berliner Roman;0;1;0;0;1;0;0;1;1;0;0;0;10;10;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;1;1;0;0;1;0;0;0;0;1902
+ZR-Rez20;Allg. Konservative Monatsschrift für das christliche Deutschland, 09.01.1887 (Otto Kraus).;1;Schweizer Roman, Dichtung;0;1;1;0;0;1;0;0;1;2;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;1;1;0;0;1;0;0;0;1;1887
+ZR-Rez21;Allgemeine Zeitung, 12.05.1887, Beilage (Adolf Koch).;1;Erzählung, Roman, ein Stück Zeitgeschichte;0;2;2;0;0;2;0;0;2;0;0;0;6;6;0;0;0;0;0;0;-;0;0;2;1;1;0;1;0;0;4;0;0;0;0;1;0;0;0;1;1887
+ZR-Rez22;Allgemeine Zeitung, 03.09.1890, Beilage (Adolf Stern).;1;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;0;0;0;0;0;0;1;0;1;1890
+ZR-Rez23;Basler Nachrichten, 07.01.-10.01.1887, Beilage (Leonhard Tobler).;1;Zeitroman, politischer Roman;1;7;7;0;0;6;0;0;6;0;0;1;0;0;0;0;0;1;0;0;-;0;0;0;1;0;0;1;0;0;4;0;0;0;0;1;0;0;0;1;1887
+ZR-Rez24;Blätter für literarische Unterhaltung 1, 8 (1887), S.119-122 (Benno Rüttenauer).;1;Roman, demokratisches Buch;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;4;1;1;0;0;0;0;0;0;1;1887
+ZR-Rez25;Das Magazin für die Litteratur des In- und Auslandes, 22.01.1887 (Alfred Friedmann).;1;Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;0;0;0;0;0;0;3;1;0;0;1;0;0;0;0;0;1887
+ZR-Rez26;Der Leih-Bibliothekar, 31.01.1887, S. 266-267.;1;Familienroman;0;2;2;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;1887
+ZR-Rez27;Deutsche Litteraturzeitung 8, 14 (1887), Sp. 512-513 (Erich Schmidt).;1;Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;1;1;0;1;0;0;0;0;1;1887
+ZR-Rez28;Deutsche Rundschau 51 (1887), S. 149-154 (Paul Schlenther).;1;Züricher Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;1;0;0;4;0;0;0;0;0;0;0;0;0;1887
+ZR-Rez29;Deutsche Zeitung (Wien), 10.12.1886, Morgenausgabe (Josef Victor Widmann).;1;Roman eines Volkes, Volksepos der Gegenwart, schweizerisches Volks- und Familiengemälde;0;0;0;0;0;0;0;0;0;0;0;0;4;3;0;1;0;0;0;2;-;0;0;4;1;1;0;1;0;1;3;0;0;0;0;1;0;0;0;1;1886
+ZR-Rez30;Deutsches Literaturblatt 9, 26 (1886), S. 104 (H. K.).;1;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1886
+ZR-Rez31;Die Gegenwart 30, 52 (1886), S. 405-407 (Theophil Zolling).;1;Roman, Schweizer Volksbuch, ;0;4;2;2;0;2;2;0;4;0;0;0;1;0;0;1;0;0;0;0;2;1;0;0;0;0;0;1;0;0;4;1;1;0;0;1;1;0;0;1;1886
+ZR-Rez32;Die Nation 4,17 (1887), S. 258-259 (Fritz Mauthner).;1;Roman, Dichtung;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;1;1;0;1;1;0;0;0;1;1887
+ZR-Rez33;Die Presse (Wien), 10.02.1887 (z. k. l.).;1;Roman, Züricher Geschichte, Erzählung, politische Satyre;0;5;5;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;1;1;0;1;1;1;0;0;0;1887
+ZR-Rez34;Deutsche Illustrirte Zeitung 3, 27 (1887), S. 6-7 (Otto Brahm).;1;Zeitroman, Erzählung, Dichtung;1;0;0;0;0;0;0;0;0;0;0;0;5;4;0;1;0;0;1;0;-;0;0;0;0;0;0;0;0;1;3;0;0;0;0;1;0;0;0;0;1887
+ZR-Rez35;Frankfurter Zeitung, 28.07.1887 (Johannes Proelß).;1;Famlienroman, Schweizer Roman;0;2;2;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;5;1;0;0;1;0;0;3;1;1;0;1;1;0;0;1;0;1887
+ZR-Rez36;Die Grenzboten 46 (1887), S. 272-284 (Moritz Necker). ;1;sozialer Roman, satyrischer Roman, Dichtung;0;2;2;0;0;2;0;0;2;0;0;0;2;2;0;0;0;0;0;3;-;0;0;0;1;0;0;0;0;1;4;0;0;0;1;0;1;1;0;1;1887
+ZR-Rez37;Hamburger Nachrichten, 11.12.1886, Abend-Ausgabe.;1;Roman;0;4;3;0;1;3;0;0;3;0;1;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;1;0;1;4;1;1;0;0;0;0;0;0;1;1886
+ZR-Rez38;Heimgarten 11, 6 (1887), S. 444-448 (R.).;1;Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;1;0;0;1;0;0;3;0;0;0;1;1;0;0;0;0;1887
+ZR-Rez39;Kölnische Zeitung, 11.12.1886.;1;Roman, Geschichte;0;1;1;0;0;1;0;0;1;0;0;0;2;2;0;0;0;0;0;0;-;0;0;2;0;1;0;1;0;0;3;1;1;0;0;1;0;0;0;0;1886
+ZR-Rez40;Neue Freie Presse, 22.01.1887 (K. v. Thaler).;1;Lebensbild eines modernen Schweizers, Roman, politische Satyre;0;2;2;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;2;-;0;0;2;1;0;0;0;0;0;2;1;1;0;0;1;0;0;0;1;1887
+ZR-Rez41;Neue Zürcher Zeitung, 28.12.1886 (Adolf Frey).;1;Zeitroman, Entwicklungsroman;1;2;2;0;0;2;0;0;2;0;0;0;4;4;0;0;0;0;2;3;-;0;1;0;0;0;1;1;0;1;3;1;1;0;0;1;0;0;0;1;1886
+ZR-Rez42;Schwäbische Kronik, 19.12.1886, Sonntagsbeilage.;1;schweizerische Familiengeschichte;0;2;2;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;1886
+ZR-Rez43;Seemanns literarischer Jahresbericht 16 (1886), S. 46 (H.).;1;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;1886
+ZR-Rez44;Tägliche Rundschau, 23.02.1887 (Heinrich Keppler).;1;Roman;0;1;1;0;0;1;0;0;1;0;0;0;2;2;0;0;0;0;0;0;-;1;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;1887
+ZR-Rez45;Thurgauer Zeitung, 19.12.1886 (Erste Beilage).;1;Roman, Zeit- und Sittenroman;1;2;2;0;0;2;0;0;2;0;0;0;0;0;0;0;0;0;0;0;-;1;0;10;1;0;0;0;0;0;4;0;0;0;0;1;0;0;0;0;1886
+ZR-Rez46;Über Land und Meer 31, 41 (1899), S. 860-861;1;Schweizerroman;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;-;0;0;1;1;0;0;1;0;0;3;0;0;0;0;1;0;0;0;0;1899
+ZR-Rez47;Zeitung für Literatur, Kunst und Wissenschaft des Hamburgischen Correspondenten, 09.01.1887;1;Roman;0;1;1;0;0;1;0;0;1;0;0;0;1;1;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;4;0;0;0;0;0;0;0;0;1;1887
+ZR-Rez48;Musik und Theater-Zeitung (Wien) 14, 7 (1903), S. 15.;2;Roman;0;2;0;0;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;1;1903
+ZR-Rez49;Aerztliche Central-Zeitung 15, 48 (1903), S. 672 (Ci.).;2;Tendenz- und Schlüsselroman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;1;0;0;3;0;0;0;0;1;0;0;0;0;1903
+ZR-Rez50;Badener Zeitung, 07.11.1903 (E.).;2;Wiener Roman;0;5;1;0;4;1;;2;3;0;2;0;5;4;0;1;0;0;0;0;-;0;0;2;0;1;0;0;0;0;3;0;0;0;0;1;0;0;0;1;1903
+ZR-Rez51;Das litterarische Echo 7, 6 (1904), Sp. 401-402 (Paul Leppin).;2;Wiener Roman;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;1904
+ZR-Rez52;Das Vaterland, 04.12.1903, Abendblatt (E.).;2;Zeitroman;1;2;2;0;0;2;0;0;2;0;0;0;1;1;0;0;0;0;0;0;-;0;0;2;1;0;0;1;0;0;2;0;0;0;0;1;0;0;0;0;1903
+ZR-Rez53;Das Wissen für alle 3, 51 (1903);2;Tendenz-, Kampf- und Streitschrift;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;1;-;1;0;0;0;0;0;0;0;0;3;0;0;0;0;1;0;0;0;1;1903
+ZR-Rez54;Deutsche Zeitung (Wien), 13.12.1903, Morgenausgabe;2;Zeitroman;1;1;0;0;1;0;0;1;1;0;0;0;3;3;0;0;0;0;0;0;-;1;0;2;1;0;0;1;0;1;4;0;0;0;0;1;1;0;0;1;1903
+ZR-Rez55;Deutsches Nordmährerblatt, 12.12.1903.;2;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;3;0;0;0;0;0;0;0;0;0;1903
+ZR-Rez56;Deutsches Volksblatt, 08.12.1903, Morgen-Ausgabe.;2;Wiener Roman, kulturhistorisches Dokument unserer Zeit;0;3;1;0;2;1;0;0;1;0;0;2;1;1;0;0;0;0;1;0;-;0;0;7;1;1;1;0;0;0;3;0;0;0;0;1;0;0;0;1;1903
+ZR-Rez57;Die Kultur 10, 2 (1909), S. 219 (Hans Brenner).;2;Schlüsselroman;0;1;0;0;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;-;0;0;0;1;0;0;0;0;0;-;0;0;0;0;1;0;0;0;0;1909
+ZR-Rez58;Literarisches Zentralblatt für Deutschland, [Beilage:] Die Schöne Literatur 5, 1 (1904), S. 5 (Herm. Anders Krüger).;2;Tendenzwerk;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1904
+ZR-Rez59;Die Umschau 8, 9 (1904), S. 172 (G. v. Walderthal).;2;Schlüsselroman;0;4;2;0;2;2;0;0;2;0;0;2;2;2;0;0;0;0;0;0;2;0;0;0;0;0;1;1;0;0;3;0;0;0;0;1;0;0;0;1;1904
+ZR-Rez60;Die Zeit, 13.12.1903 (Hugo Greinz).;2;antisemitischer Roman;0;1;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;2;0;0;0;0;1;0;0;0;0;1903
+ZR-Rez61;Figaro (Wien) 67, 49 (1903), [Beilage:] Wiener Luft.;2;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;3;1;1;0;0;0;0;0;0;0;1903
+ZR-Rez62;General-Anzeiger (Magdeburg), 13.12.1903, 5. Beilage (t.).;2;Tendenzroman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;0;0;0;0;1;0;0;0;0;1903
+ZR-Rez63;Grazer Volksblatt, 12.01.1904, Morgen-Ausgabe.;2;sensationeller Zeitroman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;16;-;1;0;1;1;1;0;0;0;0;4;0;0;0;0;1;0;0;0;0;1904
+ZR-Rez64;Grazer Volksblatt, 18.12.1904, Morgen-Ausgabe (F. Z.).;2;Zeitbuch im großen Stil, Roman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;3;1;0;0;0;0;0;3;1;1;0;0;1;0;0;0;0;1904
+ZR-Rez65;Grenzbote des nordwestlichen Mährens, 02.01.1904.;2;Roman;0;3;0;2;1;0;2;0;2;0;0;1;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;1;1;0;0;0;0;0;0;1;1904
+ZR-Rez66;Grenzpost (Zwittau), 16.01.1904 (dt.).;2;Roman;0;4;1;1;2;1;1;0;2;0;0;2;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;1904
+ZR-Rez67;Heimgarten 28, 5 (1904), S. 396-397 (Josepha Frank).;2;Wiener Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;4;1;1;0;0;1;0;0;0;1;1904
+ZR-Rez68;Westungarischer Grenzbote, 17.11.1903 (Simonhi).;2;echter Wiener Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;1;0;-;0;0;0;0;0;0;0;0;0;3;1;1;0;0;1;0;1;0;1;1903
+ZR-Rez69;Leipziger Zeitung, 24.11.1904, Wissenschaftliche Beilage (A.).;2;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;-;0;1;1;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;1904
+ZR-Rez70;Linzer Volksblatt, 15.12.1903.;2;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;3;1;1;0;0;0;0;0;0;0;1903
+ZR-Rez71;Literarische Warte 5, 8 (1904), S. 483-485 (Carl Conte Scapinelli).;2;Roman, Zeitbild;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;3;-;1;0;1;1;0;0;1;0;0;3;0;0;0;0;1;1;0;0;0;1904
+ZR-Rez72;Neue Bahnen 4, 9/10 (1904), S. 276 (Karl M. Brischar).;2;Roman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;1;0;0;2;0;0;0;0;1;0;0;0;1;1904
+ZR-Rez73;Neues Wiener Journal, 22.12.1903 (Max Foges).;2;Wiener Schlüsselroman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;1903
+ZR-Rez74;Neulengbacher Zeitung, 16.01.1904 (B.-B.). [ident. in Der Bote aus dem Waldviertel, 01.02.1904];2;Roman;0;3;0;0;3;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;-;0;0;2;1;1;0;0;0;0;2;0;0;0;0;1;0;0;0;0;1904
+ZR-Rez75;Ostdeutsche Rundschau, 11.12.1903, Morgenblatt (r.). ;2;ein Stück Zeitgeschichte, Volksroman, Schlüsselroman;0;2;0;0;2;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;-;0;0;2;1;0;0;1;0;0;2;1;1;0;0;1;0;0;0;0;1903
+ZR-Rez76;Österreichische Forst- und Jagd-Zeitung, 21, 52, 1095 (1903), S. 444 (K.).;2;Roman;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;-;0;0;1;1;0;0;1;0;0;3;0;0;0;0;1;0;0;0;0;1903
+ZR-Rez77;Reichenberger Zeitung, 29.11.1903. ;2;Roman;0;2;0;0;2;0;0;2;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;1;0;1903
+ZR-Rez78;Reichspost, 13.01.1905 (F. Z.). ;2;Kulturroman, Zeitbuch;1;2;1;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;4;-;1;0;6;1;1;0;1;0;0;1;0;0;0;0;1;0;0;0;0;1905
+ZR-Rez79;Reichspost, 31.03.1904 (Wilhelm Kosch).;2;Satire;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;2;-;1;1;1;1;0;0;1;0;0;1;0;0;1;0;0;0;0;0;1;1904
+ZR-Rez80;Staatsbürger-Zeitung (Berlin), 23.12.1903, Morgenausgabe, Ausgabe A;2;antisemitischer Roman, Kulturdokument, Zeitdokument;0;1;1;0;0;1;0;0;1;0;0;0;1;0;0;1;0;0;0;0;-;0;0;2;1;1;0;1;0;0;3;0;0;0;0;1;1;0;0;1;1903
+ZR-Rez81;Wiener Hausfrauen-Zeitung, 27.12.1903 (L.).;2;Schlüsselroman;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;1903
+ZR-Rez82;Zeitstimmen 3, 5 (1904), S. 123 (W. L.).;2;Zeitbroschüre;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1904
+ZR-Rez83;Allgemeine Zeitung, 29.05.1889, Beilage.;3;Roman, Erzählung;0;7;2;2;3;2;2;3;7;0;0;0;1;1;0;0;0;0;0;0;-;1;0;0;0;0;0;0;0;0;2;1;1;0;0;0;0;0;0;0;1889
+ZR-Rez84;Berliner Börsen-Zeitung, 25.05.1888, I. Beilage. ;3;Roman;0;3;3;0;0;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;3;0;0;0;0;1;0;0;0;0;1888
+ZR-Rez85;Blätter für literarische Unterhaltung 1, 26 (1889), S. 401-403 (Adalbert Schroeter).;3;Roman, Familienroman;0;6;2;3;1;2;3;1;6;0;0;0;2;2;0;0;0;0;0;0;-;1;0;1;1;1;0;1;0;0;2;0;0;0;0;1;0;0;1;0;1889
+ZR-Rez86;Die Nation 6, 49 (1889), S. 729-731 (Albert Traeger).;3;Roman;0;12;4;4;4;4;4;4;12;0;1;0;2;1;0;0;1;0;0;0;-;1;0;3;1;0;0;0;0;0;4;0;0;0;0;1;0;0;0;1;1889
+ZR-Rez87;Gegenwart 36, 27 (1889), S. 8-10 (Maximilian Harden).;3;socialer Roman;0;7;4;1;2;4;1;2;7;0;0;0;1;1;0;0;0;0;0;1;-;1;1;3;1;0;1;0;0;0;3;1;1;0;0;1;0;0;1;0;1889
+ZR-Rez88;Die Grenzboten 48, 2 (1889), S. 465-469 (Moritz Necker).;3;Zeitroman;1;8;3;3;2;3;3;2;8;0;0;0;3;3;0;0;0;0;0;0;-;0;0;1;1;1;0;0;0;0;1;0;0;1;0;1;0;0;1;0;1889
+ZR-Rez89;Hamburger Nachrichten, 15.06.1889, Belletristisch-Literarische Beilage (Dr. P. M.).;3;Zeitroman, Erzählung;1;9;2;4;3;2;4;3;9;0;0;0;7;7;0;0;0;0;0;3;-;1;1;4;1;1;1;1;0;0;2;0;0;0;0;1;0;0;1;0;1889
+ZR-Rez90;Der Kunstwart 3, 1 (1889/90), S. 6-7 (H[ermann]. Schütze).;3;Roman;0;2;1;0;1;1;0;1;2;0;0;0;2;2;0;0;0;0;0;1;2;0;1;1;1;1;1;0;0;0;1;0;0;0;0;1;0;0;0;0;1889
+ZR-Rez91;Prager Tagblatt, 24.02.1899 (Dr. Max Osborn). [ident. in Grazer Tagblatt, 24.02.1899, Morgen-Ausgabe];3;Zeitroman, Tendenzroman;1;6;1;2;3;1;2;1;4;0;0;0;2;2;0;0;0;0;0;0;-;0;0;2;0;0;0;0;0;0;3;1;1;0;0;1;0;0;0;0;1899
+ZR-Rez92;Westermanns illustrierte deutsche Monats-Hefte 34, 397 (1889), S. 141.;3;Roman;0;2;2;0;0;2;0;0;2;0;0;0;1;1;0;0;0;0;1;0;-;0;0;1;1;1;0;0;0;0;2;0;0;0;0;1;0;0;0;0;1889
+ZR-Rez93;Westermanns illustrierte deutsche Monats-Hefte 53, 6 (1909), S. 896-902 (Victor Klemperer).;3;politischer Roman, Zeitroman;1;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;0;0;0;0;0;2;0;0;0;0;1;0;0;0;0;1909
+ZR-Rez94;Die Neue Zeit 8, 4 (1890), S. 189-192 (Paul Ernst).;3;Roman;0;7;4;2;1;4;2;1;7;0;0;0;2;2;0;0;0;0;0;0;-;0;0;4;1;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1890
+ZR-Rez95;Kölnische Zeitung, 26.05.1889, Sonntags-Ausgabe.;3;Roman;0;10;2;3;5;2;3;5;10;0;0;0;2;2;0;0;0;0;0;0;-;0;0;3;1;1;1;0;0;0;2;0;0;0;0;1;0;0;1;0;1889

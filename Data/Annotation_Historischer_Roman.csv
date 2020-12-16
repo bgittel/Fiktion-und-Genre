@@ -1,0 +1,83 @@
+Nr;Rezensionen;WerkNr;Genrezuordnung_ausgeschrieben;Genrezuordnung_formal;Objektbezug-basal;Objektbezug-basal_Anteil_Figuren;Objektbezug-basal_Anteil_Ereignisse;Objektbezug-basal_Anteil_Orte;Objektbezug-basal_unspezifisch_gesamt;Objektbezug-basal_Genese;Objektbezug-basal_Ähnlichkeit;Objektbezug-basal_Referenz;Exemplifikation-basal;Exemplifikation-basal_Anteil_Figuren;Exemplifikation-basal_Anteil_Handlung;Exemplifikation-basal_Anteil_Gesellschaft;Exemplifikation-basal_Anteil_Stimmung;Instanziierung-basal;Klassenidentität-basal;Explizite-Wahrheit-basal_Anzahl;Explizite-Wahrheit-basal_ordinal;Bewertung_explizite_Wahrheit;Implizite-Wahrheit-basal;Bewertung_implizite_Wahrheit;Arg_Auseinandersetzung_impl_expl_Wahrheit;Isomorphie-basal;Immersion;Faktentreue;Anzahl_historischer_Abweichungen;Negative_Bewertung_Abweichungen;Lehrreich;Identifikation_Autor_Erzählerfigur;Impl_Identifikation_Autor_Erzähler;Ästhetische_Wertung;Absprechen_Literaturstatus;Epochenspezifisches_Thema;Universelles_Thema;Thematisierung_Sprache_Stil;Bewertung_Sprache_Stil;Kritik_anderer_Interpretationen;Länge;Jahr
+HR-Rez1;Kieler Zeitung, 10.03.1879, Abendausgabe.;0;HR;1;10;2;3;5;10;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;1;3;0;1;0;1;1;0;1;1879
+HR-Rez2;Kölnische Zeitung, 30.12.1878.;0;R, Erzählung;0;10;3;3;4;10;0;0;0;1;0;0;1;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;1;1878
+HR-Rez3;Wochenblatt der Johanniter-Ordens-Balley Brandenburg, 15.01.1879, S. 17-18.;0;HR, Erzählung;1;9;4;1;4;9;0;0;0;3;3;0;0;0;0;0;0;3;1;0;0;0;0;1;0;0;0;0;0;0;4;0;1;0;1;1;0;1;1879
+HR-Rez4;Blätter für literarische Unterhaltung 1, 9 (1879), S. 131-132 (Friedrich Karl Schubert).;0;R;0;3;1;2;0;3;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;0;3;0;1;0;0;0;0;1;1879
+HR-Rez5;Die Grenzboten 41 (1882), S. 538-546.;0;HR;1;12;3;5;4;12;0;0;0;1;0;0;0;1;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;0;3;0;1;0;0;0;0;1;1882
+HR-Rez6;Hamburger Nachrichten, 15.12.1878, Morgen-Ausgabe;0;R;0;8;2;3;3;8;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;1;4;0;1;0;0;0;0;1;1878
+HR-Rez7;Neue Evangelische Kirchenzeitung 49 (1878), Sp. 779.;0;HR;1;5;1;1;3;5;0;0;0;0;0;0;0;0;0;0;0;-;0;1;0;0;0;0;1;0;0;0;0;0;4;0;0;0;0;0;0;0;1878
+HR-Rez8;Schwäbische Kronik, 15.12.1878 (W[ilhelm]. L[übke].).;0;HR;1;10;4;2;4;10;0;0;0;7;5;0;1;1;0;0;0;-;0;0;0;0;0;1;0;0;0;0;0;1;4;0;1;0;0;0;0;1;1878
+HR-Rez9;Neue Preußische (Kreuz-)Zeitung, 11/12.12.1878.;0;R, Erzählung;0;5;2;0;3;5;0;0;0;6;6;0;0;0;0;0;0;2;1;0;0;0;0;1;1;0;0;0;0;1;4;0;1;0;1;1;0;1;1878
+HR-Rez10;Magdeburgische Zeitung, 1878 (W[ilhelm] Jensch).;0;HR, Romandichtung, Familienroman, Erzählung;1;10;3;1;6;10;0;0;0;2;0;0;1;1;0;0;0;-;0;1;0;0;0;0;0;0;0;0;0;0;4;0;1;0;1;1;0;1;1878
+HR-Rez11;Vossische Zeitung, 22.11.1878, 1. Beilage, S. 1 (L[udwig]. P[ietsch].).;0;R, Erzählung;0;12;1;5;6;12;0;0;0;1;1;0;0;0;0;0;1;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;2;1878
+HR-Rez12;Norddeutsche Allgemeine Zeitung, 30.11.1878 (-i);0;R, Erzählung;0;11;3;3;5;11;0;0;0;4;3;0;1;0;0;0;0;-;0;0;0;0;0;1;1;1;0;0;0;0;3;0;1;1;0;0;0;1;1878
+HR-Rez13;Allgemeine Zeitung, 05.12.1878, Beilage (Q.).;0;R, Erzählung, Liebesroman;0;11;3;2;6;11;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;1;1;0;1;1878
+HR-Rez14;Mehr Licht! 15 (1879), S. 235-236 (Eugen Zabel).;0;R, Erzählung;0;4;2;1;1;4;0;0;0;0;0;0;0;1;0;0;0;-;0;0;0;0;1;0;0;0;0;1;0;1;3;0;1;0;0;0;0;1;1879
+HR-Rez15;Die Post, 14.11.1878, Beilage.;0;Roman, Dichtung;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;1;0;1;0;0;1;0;0;4;0;0;0;0;0;0;0;1878
+HR-Rez16;Deutsche Rundschau 18 (1879), S. 317-319 (Mm. [= Julius Rodenberg]).;0;Roman;0;3;0;1;2;3;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;1;1;0;0;0;0;0;3;0;0;1;0;0;0;1;1879
+HR-Rez17;Über Land und Meer 41, 21 (1879), S. 406.;0;Roman;0;3;0;1;2;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;1879
+HR-Rez18;Allgemeine Zeitung, 10.12.1876, Außerordentliche Beilage.;1;Erzählung;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;1;1;0;1;1876
+HR-Rez19;Allgemeine Zeitung, 28.12.1876, Beilage (G. K[inkel].).;1;HR, Erzählung;1;7;2;0;5;7;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;1;1;0;1;1876
+HR-Rez20;Blätter für literarische Unterhaltung 1, 24 (1877), S. 374-375.;1;-;0;3;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;1;1;0;1;1877
+HR-Rez21;Die Gegenwart 10, 47 (1876), S. 329 (Hermann Lingg).;1;historische Erzählung;0;8;1;0;7;8;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;0;3;0;1;0;0;0;0;1;1876
+HR-Rez22;Die Grenzboten 39 (1880), S. 140-148 (Adolf Stern).;1;HR;1;12;4;4;4;12;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;1;3;0;0;0;0;0;0;2;1880
+HR-Rez23;Deutsche Rundschau 17 (1878), S. 161-163.;1;HR;1;4;1;0;3;4;0;0;0;1;0;0;1;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;1;0;0;0;1;1878
+HR-Rez24;Gartenlaube Nr. 14 (1877), S. 239.;1;HR;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;0;3;0;0;0;0;0;0;0;1877
+HR-Rez25;Die Grenzboten 36 (1877), S. 278-279 (Felix Dahn).;1;historische Novelle, Erzählung, Geschichte;0;4;0;1;3;4;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;1;0;0;0;0;3;0;0;0;1;1;0;1;1877
+HR-Rez26;Im neuen Reich 6, 2 (1876), S. 636-637 (E-e).;1;Erzählung, Dichtung;0;6;2;2;2;6;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;1;0;0;0;0;2;0;0;0;0;0;0;1;1876
+HR-Rez27;Neue Preußische (Kreuz-)Zeitung, 05.12.1778, Beilage (V.).;1;Geschichte;0;3;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;1;0;0;0;0;3;0;0;1;1;1;0;1;1878
+HR-Rez28;Neue Zürcher Zeitung, 03.11.1876.;1;-;0;7;0;2;5;7;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;1;1;0;0;0;0;0;3;0;0;0;1;1;0;1;1876
+HR-Rez29;Zeitschrift für den deutschen Unterricht 9 (1895), S. 154-157 (R. Foß).;1;HR;1;13;3;0;10;13;0;0;0;3;3;0;0;0;0;1;0;-;0;0;0;0;0;1;1;2;0;0;0;1;3;0;0;0;0;0;0;1;1895
+HR-Rez30;Neue Zürcher Zeitung, 07.12.1878 (Ad[olf] Frey.).;1;HR;1;12;4;3;5;12;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;0;3;0;0;0;0;4;0;0;1;1;1;0;1;1878
+HR-Rez31;Magazin für die Literatur des Auslandes 92, 46 (1877), S. 698-699 (J[acob] M[ähly]).;1;geschichtlicher Roman;0;11;4;3;4;11;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;4;0;0;0;0;4;0;0;1;1;1;0;1;1877
+HR-Rez32;Preußische Jahrbücher 44 (1879), S. 608-613 (Julian Schmidt);1;HR, Geschichte, Dichtung, Erzählung;1;4;0;1;3;4;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;1;0;0;0;1;1879
+HR-Rez33;Literarischer Merkur 25.7. u. 15.8.1882 (Oskar Welten);1;Geschichte;0;3;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;1;0;0;0;1;1882
+HR-Rez34;Anzeiger des Bezirkes Meißen, 14.10.1876 (J[akob] W[ißmann]);1;geschichtlicher Roman, Tragödie;0;5;2;0;3;5;0;0;0;1;1;0;0;0;0;0;0;-;0;1;0;0;1;1;1;0;0;0;0;0;4;0;0;1;1;1;0;1;1876
+HR-Rez35;Basler Nachrichten 25.10.1876;1;historischer Roman;1;13;5;2;6;13;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;1;1;0;0;0;0;0;0;4;0;0;0;0;0;0;1;1876
+HR-Rez36;Magdeburgische Zeitung, 29.10.1876 (G.);1;Erzählung, Roman;0;4;1;1;2;4;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;1;0;0;0;0;3;0;0;0;0;0;0;1;1876
+HR-Rez37;Evangelisches Wochenblatt, 02.11.1876 (F.);1;-;0;7;4;1;1;7;0;0;0;0;0;0;0;0;0;0;3;-;1;1;0;0;0;0;0;1;0;0;0;0;3;0;1;0;0;0;0;1;1876
+HR-Rez38;Schweizer Grenzpost, 11.11.1876 (F. Wille);1;Geschichte, historischer Roman, Erzählung;1;11;9;0;2;11;0;0;0;0;0;0;0;0;0;0;0;-;0;2;0;0;0;0;1;1;0;0;0;0;3;0;1;0;0;0;0;1;1876
+HR-Rez39;Der freie Rhätier, 04.12.1876;1;vaterländische Literatur;0;3;1;1;1;2;1;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1876
+HR-Rez40;Neue freie Presse, 12.12.1876 ([Wilhelm Hamm]);1;romantische Erzählung, Geschichte;0;13;8;1;4;13;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;0;3;0;1;0;0;0;0;1;1876
+HR-Rez41;Neue Alpenpost 16.12.1876 (J[ohann] E[manuel] G[rob]).;1;HR;1;7;2;1;4;7;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;1;1876
+HR-Rez42;Nürnberger Kreuzerblätter, 20.01.1877 (Kurt Mook);1;-;0;2;1;1;0;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;0;0;0;0;0;3;0;1;0;0;0;0;1;1877
+HR-Rez43;Wiener Abendpost, 13.07.1877 (Betty Paoli);1;Roman;0;12;6;1;5;12;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;1;0;1;0;0;0;0;0;4;0;0;1;0;0;0;2;1877
+HR-Rez44;Allgemeine litterarische Korrespondenz, 27.01.1881 (Hermann Friedrichs);1;HR;1;10;4;1;5;10;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;1;0;0;0;0;1;1881
+HR-Rez45;Allgemeine Zeitung , 08./09.04.1887 (J. Haußleitner);1;Prosaroman;0;5;1;1;3;5;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;1;1;0;0;1887
+HR-Rez46;Illustrierte Zeitung, 21.05.1887 (Ludwig Salomon);1;Roman;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;1887
+HR-Rez47;Deutsche Hochschule, 20.03.1885 [Anton Reitler];1;Erzählung, Novelle;0;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;1;1;0;1;1885
+HR-Rez48;Frankfurter Zeitung und Handelsblatt, 15.03.1883 (O. Brahm);1;historische Erzählung;0;2;2;0;0;2;0;0;0;0;0;0;0;0;1;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;1;0;0;0;1;1883
+HR-Rez49;Allgemeine Zeitung, 21.02.1877, Beilage (F. Kreyssig).;2;Dichtung, culturgeschichtlicher Roman, politisch-historischer Zeitroman;0;4;2;0;2;3;0;0;1;2;1;0;0;1;0;0;0;-;0;0;0;0;0;1;1;3;0;1;0;0;4;0;0;1;0;0;1;1;1877
+HR-Rez50;Blätter für literarische Unterhaltung 1, 14 (1877), S. 209-213 (Rudolf Gottschall).;2;archäologischer Roman, ägyptologischer Roman;0;4;0;0;4;4;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;5;1;1;0;0;3;0;0;0;1;1;0;2;1877
+HR-Rez51;Bohemia, 01.12.1876, Beilage, S. 4 (J. K.).;2;ägyptischer Roman, Roman;0;2;1;0;1;2;0;0;0;0;0;0;0;0;0;0;0;2;1;0;0;0;0;0;1;0;0;0;0;0;4;0;0;1;0;0;0;1;1876
+HR-Rez52;Daheim 13, 14 (1877), S. 207-208 (-r-).;2;R;0;3;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;1;1;0;1;1877
+HR-Rez53;Deutsche Rundschau 11 (1877), S. 171-174 (F. Kreyssig).;2;R, belehrende Dichtung;0;6;2;0;4;6;0;0;0;3;3;0;0;0;0;0;0;-;0;0;0;0;0;1;1;0;0;1;0;0;3;0;0;1;1;1;0;2;1877
+HR-Rez54;Die Gegenwart 12, 37 (1877), S. 167-171 (Paul Lindau).;2;wissenschaftlicher Roman, Dichtung;0;4;2;0;2;3;0;0;0;0;0;0;0;0;0;0;0;-;0;2;1;0;0;0;0;0;0;0;0;1;3;0;0;1;1;1;0;2;1877
+HR-Rez55;Im neuen Reich 7, 1 (1877), S. 255-264 (E-e).;2;HR, Erzählung, Dichtung;1;2;2;0;0;2;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;1;1;2;0;1;0;0;3;0;0;1;0;0;0;2;1877
+HR-Rez56;Jenaer Literaturzeitung 5, 25 (1878), S. 380 (W. Wilcke).;2;Roman, Erzählung;0;1;0;0;1;1;0;0;0;3;3;0;0;0;0;0;0;-;0;0;0;0;0;1;1;4;1;0;0;0;4;0;0;0;0;0;0;1;1878
+HR-Rez57;Kölnische Zeitung, 15.02.1877.;2;Cultur-Roman, ägyptischer Roman;0;5;3;0;2;5;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;1;1;0;0;0;3;0;0;1;0;0;0;1;1877
+HR-Rez58;Leipziger Tageblatt, 27.11.1876, Erste Beilage (Dr. M.).;2;R, Erzählung, Dichtung;0;5;1;0;4;5;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;1;0;1;1;0;1;0;0;4;0;0;0;1;1;0;1;1876
+HR-Rez59;Literarische Rundschau für das katholische Deutschland 3, 8 (1877), Sp. 240-245 (Schulte).;2;ägyptischer Roman;0;7;2;1;4;7;0;0;0;0;0;0;0;0;0;0;0;-;0;1;0;0;0;0;0;7;1;0;0;0;3;0;0;0;1;1;0;2;1877
+HR-Rez60;Literarischer Handweiser 16, 202 (1877), Sp. 57-61 (Hubert Schumacher).;2;Erzählung, Roman;0;3;2;0;1;3;0;0;0;0;0;0;0;0;0;1;0;-;0;1;0;0;0;1;1;1;0;1;0;0;3;0;0;0;1;1;0;2;1877
+HR-Rez61;Magdeburgische Zeitung, 06.02.1877 (W. J.).;2;HR, Dichtung;1;4;2;0;2;4;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;1;0;0;0;0;0;0;4;0;0;0;0;0;0;1;1877
+HR-Rez62;National-Zeitung, 01.03.1877, Morgen-Ausgabe (A. Glaser).;2;kulturhistorischer Roman, altägyptischer Roman;0;6;4;0;2;6;0;0;0;1;1;0;0;0;0;0;0;-;0;1;1;0;0;0;1;4;1;1;0;0;1;0;0;0;1;1;0;1;1877
+HR-Rez63;Neue Frankfurter Presse, 02.07.1877 (sx.).;2;archäologischer Roman;0;3;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;1;1;1;0;0;3;0;0;0;1;1;0;0;1877
+HR-Rez64;Neue Illustrirte Zeitung 1, 6 (1877), S. 95.;2;ägyptischer Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1877
+HR-Rez65;Neue Preußische (Kreuz-)Zeitung, 30.09.1877, Sonntags-Beilage (C. B.).;2;HR;1;8;3;0;5;8;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;1;1877
+HR-Rez66;Nordeutsche Allgemeine Zeitung, 28.12.1876.;2;R;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;-;0;0;0;0;0;0;1;0;0;0;0;0;4;0;0;0;0;0;0;0;1876
+HR-Rez67;Prager Zeitung. [Beilage:] Prager Abendblatt, 28.11.1876.;2;HR;1;3;0;0;3;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;1;0;0;0;0;1;0;0;4;0;0;0;1;1;0;0;1876
+HR-Rez68;Schlesische Presse, 28.08.1877, Morgen-Ausgabe (Dr. Albert Weigert).;2;culturhistorischer Roman, Cultur-Roman, archäologischer Roman, egyptologischer Roman;0;4;1;0;3;4;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;1;1;1;0;0;3;0;0;0;1;1;0;1;1877
+HR-Rez69;Über Land und Meer 37, 17 (1877), S. 335.;2;altägyptischer Roman;0;2;2;0;0;2;0;0;0;2;2;0;0;0;0;0;0;-;0;1;0;0;0;1;1;0;0;0;0;0;3;0;0;1;0;0;0;0;1877
+HR-Rez70;Westermann's Jahrbuch der Ilustrirten Deutschen Monatshefte 40 (1876), S. 670-671.;2;R;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;2;1;0;0;0;2;0;0;0;0;0;0;1;1876
+HR-Rez71;Wiener Zeitung. [Beilage:] Beilage zur Wiener Abendpost, 23.02.1877 (Hieronymus Lorm).;2;HR, Reflexionsdichtung, Erzählung, ägyptischer Roman;1;3;1;0;2;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;1;1;1;0;0;1;0;0;3;0;0;1;0;0;1;1;1877
+HR-Rez72;Unsere Zeit 13, 1 (1877), S. 786-788. ;2;geschichtlicher Roman;0;2;1;0;1;2;0;0;0;1;0;0;0;1;0;0;0;3;1;0;0;0;0;0;1;1;1;1;0;0;3;0;0;1;0;0;0;1;1877
+HR-Rez73;Allgemeine Zeitung, 20.12.1871, Beilage.;3;HR, Erzählung;1;21;10;2;9;21;0;0;0;8;7;0;1;0;0;0;1;-;1;0;0;0;1;0;0;0;0;0;0;0;4;0;1;1;0;0;0;2;1871
+HR-Rez74;Meyers Deutsches Jahrbuch 1 (1872), S. 244 (Adolf Stern). ;3;HR;1;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;1;0;0;0;0;0;2;0;0;0;0;0;0;0;1872
+HR-Rez75;National-Zeitung, 23.1.1872, Morgenblatt (K[arl] Fr[enzel]).;3;HR;1;21;10;2;9;21;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;1;1;0;1;1872
+HR-Rez76;Blätter für literarische Unterhaltung 2, 28 (1872), S. 433-438 (Rudolf Gottschall).;3;HR;1;10;6;0;4;9;1;0;0;2;2;0;0;0;0;1;0;2;1;0;0;0;0;0;0;0;0;0;0;1;2;0;0;0;1;1;0;2;1872
+HR-Rez77;Europa-Chronik 50 (1871), Sp. 787.;3;Roman;0;5;0;1;4;5;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1871
+HR-Rez78;Leipziger Zeitung, 01.02.1872, Wissenschaftliche Beilage (F. B.).;3;HR, Erzählung;1;20;12;1;7;20;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;1;1;0;0;0;1;0;0;3;0;0;0;0;0;0;1;1872
+HR-Rez79;Magazin für die Literatur des Auslandes 81, 2 (1872), S. 17-18 (J. H.). ;3;Roman, Novellen-Literatur;0;9;4;0;5;9;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;1;1872
+HR-Rez80;Süddeutsche Presse, 28.04.1872 (M. C.).;3;HR;1;8;6;1;1;8;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;1;0;0;0;0;0;0;2;0;0;0;1;1;0;1;1872
+HR-Rez81;Über Land und Meer 28, 28 (1872), S. 20.;3;HR;1;5;1;1;3;5;0;0;0;1;0;0;1;0;0;0;0;-;0;0;0;0;1;0;0;0;0;0;0;0;4;0;1;0;0;0;0;0;1872
+HR-Rez82;Unsere Zeit 8, 2 (1872), S. 715-716.;3;Roman;0;5;1;0;4;5;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;1;1;1;0;0;0;2;0;0;0;1;1;0;1;1872

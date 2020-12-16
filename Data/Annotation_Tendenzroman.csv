@@ -1,0 +1,69 @@
+Nr;Rezension;Werknr;Genrezuordnung_ausgeschrieben;Genrezuordnung_formal;Diskussion_Begriff_Tendenzroman;Vorkommen_Begriff_Tendenz;Objektbezug-basal;Objektbezug-basal_Anteil_Orte;Objektbezug-basal_Anteil_Ereignisse;Objektbezug-basal_Anteil_Figuren;Objektbezug-basal_unspezifisch_Orte;Objektbezug-basal_unspezifisch_Ereignisse;Objektbezug-basal_unspezifisch_Figuren;Objektbezug-basal_unspezifisch_gesamt;Objektbezug-basal_Ähnlichkeit;Objektbezug-basal_Genese;Objektbezug-basal_Referenz;Exemplifikation-basal;Exemplifikation-basal_Anteil_Figuren;Exemplifikation-basal_Anteil_Handlung;Exemplifikation-basal_Anteil_Gesellschaft;Exemplifikation-basal_Anteil_Stimmung;Instanziierung-basal;Klassenidentität-basal;Explizite-Wahrheit-basal_Anzahl;Explizite-Wahrheit-basal_ordinal;Bewertung_expliziter_Wahrheiten;Sympathie_für_Tendenz;Implizite-Wahrheit-basal;Bewertung_impliziter_Wahrheiten;Arg_Auseinandersetzung_impl_expl_Wahrheit;Isomorphie-basal;Identifikation_Autor_Erzählerfigur;Impl_Identifikation_Autor_Erzähler;Ästhetische_Wertung;Thematisierung_Sprache_Stil;Bewertung_Sprache_Stil;Absprechen_Literaturstatus;Universelles_Thema;Epochenspezifisches_Thema;Zeitgeschichtlicher_Problemkontext;Kritik_anderer_Interpretationen;Jahr
+TR-Rez1;Die Grenzboten 49, 2 (1890), S. 32-38 (M.N.);0;Tendenzroman, Roman;1;1;1;9;5;3;1;5;3;1;9;0;0;0;1;1;0;0;0;0;0;0;3;0;1;1;0;0;0;0;0;1;0;0;0;1;0;1;0;1890
+TR-Rez2;Neue Rundschau 18 (1890), S. 491-492 (Adolf Zoberbier);0;Streit- und Tendenzschrift;1;0;0;9;4;5;0;4;5;0;9;0;0;0;0;0;0;0;0;0;0;0;-;0;1;1;0;0;0;0;0;-;0;0;1;1;0;1;0;1890
+TR-Rez3;Deutsche Dichtung 8 (1890), S. 97-99 (Otto Hartung);0;Tendenzroman, Tendenzwerk;1;1;1;6;4;2;0;4;2;0;6;0;0;0;1;1;0;0;0;0;0;0;3;1;1;1;0;1;0;0;0;2;1;1;0;1;0;1;0;1890
+TR-Rez4;Der Kunstwart 3 (1889/90), S. 273-274;0;Tendenzwerk, Erzählung;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;1;1;0;0;0;0;0;3;1;1;1;1;0;0;0;1889
+TR-Rez5;Moderne Dichtung 4 (1890/91), S. 264-265 (Julius Kulka);0;„Kampfschrift“, „Tendenzdichtung“;1;1;1;6;0;4;2;0;4;0;4;0;0;0;0;0;0;0;0;0;0;0;-;0;1;1;0;0;0;0;0;3;0;0;0;1;0;0;0;1890
+TR-Rez6;Die Gesellschaft 6 (1890), S. 433-436 (M.G. Conrad);0;"„künstlerische Kampfschrift“, „Roman“, ""wäre es eine tendenzlose Dichtung"", Familienliteratur";0;0;1;7;0;7;0;0;7;0;7;0;0;0;1;1;0;0;0;0;0;0;-;0;0;1;1;1;0;0;0;3;1;1;0;1;0;1;0;1890
+TR-Rez7;Neue Freie Presse 15.03.1890, S. 1-2 (B. Carneri);0;„Roman“;0;0;0;3;1;1;1;1;1;1;3;0;0;0;0;0;0;0;0;0;0;0;-;0;1;2;1;1;0;0;0;4;0;0;0;1;0;1;0;1890
+TR-Rez8;Moderne Rundschau 3. Bd. 1891 (Rudolph Lothar) (auch in: Ders. Kritische Studien zur Psychologie der Literatur, Breslau 1895, S. 148-161);0;„Zeitroman“, „Roman“;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;1;0;0;2;1;1;0;0;0;0;0;1891
+TR-Rez9;Blätter für literarische Unterhaltung 21 (1890), S. 322f. (Leopold Katscher);0;"""Tendenzwerk"", ""Roman"", ""Kriegsroman""";1;1;1;3;0;3;0;0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;-;0;1;5;0;1;0;0;0;4;0;0;0;1;0;1;0;1890
+TR-Rez10;Die neue Zeit 8 (1890), S. 140-143 (Wilhelm Blos);0;Lebensgeschichte, Erzählung, Polemik gegen den Krieg;0;0;0;12;4;5;3;4;5;3;12;0;0;0;1;0;0;1;0;0;0;0;-;0;1;2;0;0;0;1;0;2;1;1;0;1;0;1;0;1890
+TR-Rez11;Der Heimgarten 16 (1892) 144-146 (P. K. Rosegger);0;„scheinbar Unterhaltungsliteratur“, „ein Entrüstungsschrei gegen den Krieg“, „Roman“, „Polemik gegen den Krieg“;0;0;0;4;0;4;0;0;4;0;4;0;0;0;0;0;0;0;0;0;0;1;-;1;1;2;1;1;0;0;0;-;0;0;0;1;0;0;0;1892
+TR-Rez12;Die Nation 7, 22 (1890), S. 324-325 (Maximilian Harden);0;Kultur-Roman, Manifest;0;0;0;5;1;2;2;1;2;2;5;0;0;0;0;0;0;0;0;0;0;1;-;0;1;2;0;1;0;0;0;-;0;0;0;1;0;1;0;1890
+TR-Rez13;Montags-Revue 12, 52 (1890), S. 1-2;0;Tendenzwerk, Roman;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;1;2;0;0;1;0;0;4;0;0;0;1;0;0;0;1890
+TR-Rez14;Österreichische Kunst-Chronik 14, 4 (1890), S. 112 (m.) / Allgemeine Kunst-Chronik;0;Lebensgeschichte;0;0;1;10;6;4;0;6;4;0;10;0;0;0;0;0;0;0;0;0;0;0;2;0;0;3;0;0;0;0;0;1;0;0;0;1;0;0;0;1890
+TR-Rez15;Velhagen & Klasings Neue Monatshefte 4, 12 (1890), S. 369-375 (Paul v. Szczepanski);0;Roman, Tendenzroman;1;0;1;4;0;4;0;0;4;0;4;0;0;0;0;0;0;0;0;0;0;0;-;0;0;3;1;1;0;0;0;2;0;0;0;1;0;1;0;1890
+TR-Rez16;Hamburger Nachrichten 10.01.1890, S.1;0;-;0;0;1;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;1;1;0;0;0;1;0;0;0;1;0;0;0;1890
+TR-Rez17;Berliner Montags-Zeitung 27.3.1882;1;Tendenzroman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;2;0;0;0;0;1;1;0;1882
+TR-Rez18;Bohemia 7.4.1882, Nr. 97, Beilage (-om-);1;Tendenzroman;1;0;1;5;2;3;0;2;3;0;5;0;0;0;5;5;0;0;0;0;0;0;-;0;1;3;0;0;0;0;0;2;0;0;1;0;1;1;0;1882
+TR-Rez19;Das Magazin für die Literatur des In- und Auslandes;1;Tendenzroman;1;1;1;3;3;0;0;3;0;0;3;0;0;0;1;1;0;0;0;0;0;0;-;0;0;2;1;1;0;0;0;0;1;1;0;0;1;1;0;1882
+TR-Rez20;Deutsche Literaturzeitung 3, 1882, Nr. 26., Sp. 947-948 (Erich Schmidt);1;Zeitroman, Tendenzwerk;1;0;0;4;3;1;0;3;1;0;4;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;2;0;0;1;0;1;1;0;1882
+TR-Rez21;Volkszeitung 13.4.1882;1;Tendenzroman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;0;1882
+TR-Rez22;Frankfurter Zeitung 28.3.1882 (Otto Brahm);1;Tendenzroman;1;0;0;5;2;0;3;2;0;0;2;0;3;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;2;0;0;0;0;1;1;0;1882
+TR-Rez23;Die Gegenwart 8.7.1882 (T-n);1;Roman;0;0;1;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;0;0;0;0;0;3;1;1;0;0;1;1;0;1882
+TR-Rez24;Literarischer Merkur 15.8.1882, Jg. 2, Nr. 21 (Otto Waldegg) ;1;Roman;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;0;0;0;0;0;2;0;0;0;0;1;1;1;1882
+TR-Rez25;Nationalzeitung 21.3.1882 (K[arl] Fr[enzel]);1;Roman / Erzählung (aber besser wäre es gewesen einen „historischen Essay“ zu schreiben;0;0;1;1;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;1;-;1;0;0;0;1;1;0;0;2;0;0;0;0;1;0;0;1882
+TR-Rez26;Westermanns Illustrierte Monathefte Nr. 52, 1882, S. 407-410 (Fr[iedrich] Sp[ielhagen]);1;Roman (nur ein Tendenzroman wie jeder Roman der einen Stoff der Gegenwart behandelt);0;1;1;3;3;0;0;3;0;0;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;3;0;0;0;0;1;1;0;1882
+TR-Rez27;Vossische Zeitung 9.April 1882 (O[tto] Br[ahm]);1;„Roman“;0;0;0;4;3;1;0;3;1;0;4;0;0;0;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;1882
+TR-Rez28;"Freie Stunden, Sonntagsblatt der ""Tribüne"", S. 10f. (Paul Schlenther)";1;"Tendenzroman, keine ""bloße Tendenzschrift"", Roman";1;1;1;3;1;2;0;1;2;0;3;0;0;0;0;0;0;0;0;0;0;1;-;1;1;1;1;0;0;0;0;1;0;0;0;0;1;0;0;1882
+TR-Rez29;Königsberger Hartungsche Zeitung 17.3.1882;1;Tedenzdichtung, Roman;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;3;0;0;0;0;1;1;0;1882
+TR-Rez30;"""Der neue Ahasver"" (Rezension unbekannter Herkunft aus dem Mauthner-Nachlass im Leo Baeck Institut)";1;Tendenzroman, Roman;1;0;0;2;2;0;0;2;0;0;2;0;0;0;1;1;0;0;0;0;0;0;3;1;1;2;0;0;0;0;0;4;0;0;0;0;1;1;0;
+TR-Rez31;Die Neue Zeit 2, 1 (1884), S. 245-246 (I. Zadek);1;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;1884
+TR-Rez32;Allgemeine Zeitung 1885.pdf;2;"Tendenzroman (nicht im ""üblen Sinne""), Roman, Erzählung";1;1;1;4;3;1;0;3;1;0;4;0;0;0;4;3;0;1;0;0;0;0;-;0;0;5;1;1;0;0;0;3;1;1;0;0;1;1;0;1885
+TR-Rez33;Berliner Monatshefte 1885 (Jordan Tendenzdichter).pdf;2;Roman, Tendenzroman;1;0;1;5;4;0;1;4;0;0;4;0;0;1;0;0;0;0;0;0;0;0;3;0;0;2;0;0;0;0;0;1;1;1;1;0;1;1;0;1885
+TR-Rez34;Blätter für lit Unterhaltung 1885.pdf;2;Tendenzroman, religiös philosophischer Roman, gelehrter Roman, Bekehrungsgeschichte;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;3;0;0;0;0;0;3;1;1;0;0;1;1;0;1885
+TR-Rez35;Deutsche Rundschau 1885.pdf;2;Culturroman, Roman der Weltanschauung transp.;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;1;0;1;1;0;0;0;1;0;1885
+TR-Rez36;Deutsches Dichterheim 1885.pdf;2;"Bekenntnisschrift, Roman mit ""lehrhaftem Charkater""";0;0;1;5;3;0;2;3;0;2;5;0;0;0;1;1;0;0;0;0;0;1;-;0;1;1;0;1;0;0;0;3;1;1;0;0;1;1;0;1885
+TR-Rez37;Die Gegenwart.PDF;2;realistischer Roman aus der Gegenwart, philosophisch-naturwissenschaftlicher Roman, Tendenzroman, Romandichtung;1;0;0;6;2;0;4;1;0;1;2;0;3;1;0;0;0;0;0;0;0;8;3;0;1;2;1;0;0;0;0;2;1;1;0;0;1;0;0;1885
+TR-Rez38;Die Nation.pdf;2;Roman;0;0;1;1;1;0;0;1;0;0;1;0;0;0;2;2;0;0;0;0;0;0;-;0;0;1;0;0;0;0;0;2;0;0;0;0;1;1;0;1885
+TR-Rez39;Grenzboten 1885.pdf;2;didaktischer Roman;0;0;1;4;3;0;1;2;0;0;2;1;1;0;3;3;0;0;0;0;0;13;3;1;1;3;1;0;0;0;1;1;1;1;1;0;1;0;0;1885
+TR-Rez40;Heimgarten 1885.pdf;2;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;2;1;1;0;0;0;3;1;1;0;0;1;0;0;1885
+TR-Rez41;Historisch-politische Bl„tter.pdf;2;Roman;0;0;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;3;-;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1885
+TR-Rez42;Kunstwart 1887.pdf;2;-;0;0;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;1;0;0;0;0;0;0;3;0;0;0;0;0;1;0;1887
+TR-Rez43;Literarischer Merkur.pdf;2;Roman, Romandichtung;0;0;0;1;1;0;0;1;0;0;1;0;0;0;2;2;0;0;0;0;0;2;-;0;1;2;0;0;0;0;1;4;1;1;0;0;1;0;0;1885
+TR-Rez44;Westermanns Monatshefte 1885.pdf;2;Roman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;1885
+TR-Rez45;Deutsche Roman-Zeitung 21, H.3 1884;2;Roman;0;0;0;5;2;0;3;2;0;3;5;0;0;0;0;0;0;0;0;0;0;3;3;0;0;1;0;0;0;0;0;1;0;0;0;0;1;1;0;1884
+TR-Rez46;Allgemeine Moden-Zeitung 1885;2;Roman;0;0;0;1;1;0;0;1;0;0;1;0;0;0;2;2;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;2;1;1;0;1;0;0;0;1885
+TR-Rez47;Stimmen aus Maria-Laach: katholische Blätter 29, H.2 1885, S. 181-198 (W.Kreiten);2;Roman, Zeitroman, darwinistisch-naturwissenschaftlicher Roman;0;0;1;5;3;1;1;3;1;0;4;0;0;1;0;0;0;0;0;0;0;42;3;1;0;3;1;1;0;0;0;0;0;0;0;0;1;0;1;1885
+TR-Rez48;Magazin für die Literatur des In- und Auslandes;2;zeitgeschichtlicher Roman, Romandichtung;0;0;1;3;2;1;0;1;1;0;2;1;0;0;2;2;0;0;0;0;0;0;-;0;0;3;0;0;1;0;0;3;0;0;0;0;1;1;0;1885
+TR-Rez49;Berliner Tageblatt 14, 123 (1885), S. 6-7 (Fritz Mauthner);2;Roman, Tendenzroman;1;0;1;0;0;0;0;0;0;0;0;0;0;0;2;2;0;0;0;0;0;0;-;0;1;4;1;1;0;0;0;3;1;1;0;0;1;1;0;1885
+TR-Rez50;Die neue Zeit 3, 12 (1885), S. 552-556 (Robert Schweichel);2;Tendenzroman;1;0;1;3;2;1;0;2;1;0;3;0;0;0;4;4;0;0;0;0;0;4;3;1;1;3;0;1;0;0;0;2;0;0;0;0;1;1;0;1885
+TR-Rez51;Neue Freie Presse, 7473 (1885), S. 4;2;Roman, Erzählung;0;0;0;3;2;1;0;2;1;0;3;0;0;0;0;0;0;0;0;0;0;0;-;0;0;3;0;0;0;0;1;0;0;0;1;0;1;1;0;1885
+TR-Rez52;Neue illustrirte Zeitung 13, 25 (1885), S. 14;2;Tendenzroman;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;1;0;0;0;0;0;1;0;0;0;0;1;0;0;1885
+TR-Rez53;Deutsches Litteraturblatt 8 (1885), S. 14 (H.K.);2;Tendenzroman, Erzählung;1;0;0;1;1;0;0;1;0;0;1;0;0;0;2;2;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;3;0;0;0;0;1;0;0;1885
+TR-Rez54;Allgemeine Kunst-Chronik 9, 15 (1885), S. 283-286 (M.);2;Tendenzroman;1;1;1;3;3;0;0;3;0;0;3;0;0;0;1;1;0;0;0;0;0;5;3;1;0;2;0;0;0;0;0;3;1;1;0;0;1;0;0;1885
+TR-Rez55;Deutsches Tageblatt 114 (18.4.1885);2;Roman;0;0;1;3;2;0;1;1;0;0;1;0;1;1;0;0;0;0;0;0;0;1;3;1;0;1;0;1;0;0;0;1;0;0;0;0;1;0;0;1885
+TR-Rez56;Das litterarische Echo 1-12 (1899);3;-;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;1;1;0;0;0;0;0;3;1;1;0;0;1;0;0;1899
+TR-Rez57;Die Gesellschaft (1890).pdf;3;soziale Anklageliteratur, Tendenzwerk;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;0;0;0;0;0;2;0;0;0;0;1;0;0;1890
+TR-Rez58;Die Gesellschaft 1889 (S. 1777).pdf;3;soziale Satire, Entrüstungsroman, Anklageliteratur;0;0;0;1;0;0;1;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;-;0;0;2;0;0;0;0;0;2;0;0;0;0;1;0;1;1889
+TR-Rez59;Grenzboten (1889).pdf;3;theologischer Roman, Theologenroman, Tendenzroman;1;0;1;2;1;0;1;1;0;0;1;0;0;1;3;3;0;0;0;0;1;0;2;0;1;1;0;0;0;0;0;2;0;0;0;0;1;0;0;1889
+TR-Rez60;Gründeutschland (S. 143).pdf;3;Roman;0;0;0;2;2;0;0;2;0;0;2;0;0;0;1;1;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;3;0;0;0;0;1;0;0;1893
+TR-Rez61;Illustrirte Zeitung 14.12.1889.png;3;"""berliner Roman"", Unterhaltungsliteratur";0;0;0;1;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;-;0;0;1;0;0;0;0;0;3;0;0;0;0;1;0;0;1889
+TR-Rez62;Kritisches Jahrbuch (S 255).pdf;3;Tendenzdichtung, soziale Anklageliteratur;1;1;1;1;1;0;0;1;0;0;1;0;0;0;4;4;0;0;0;0;0;6;-;0;0;2;1;1;0;0;0;3;1;1;0;0;1;1;0;1890
+TR-Rez63;Magazin für die Literatur des In- und Auslandes (1889).pdf;3;Berliner Roman;0;0;0;2;2;0;0;2;0;0;1;1;0;0;5;5;0;0;0;0;0;14;-;1;0;1;1;1;0;0;0;2;1;1;0;0;1;0;0;1889
+TR-Rez64;Neues Wiener Tagblatt 14.10.1889.pdf;3;Berliner Roman, mehr als eine Tendenzdichtung;1;0;0;1;0;0;1;0;0;1;1;0;0;1;4;4;0;0;0;0;0;1;2;0;1;0;0;0;0;0;0;3;0;0;0;1;0;1;0;1889
+TR-Rez65;Westermanns Illustrirte Monatshefte 68.pdf;3;Berliner Lokalroman;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;3;0;0;0;0;1;0;0;1890
+TR-Rez66;Die Gegenwart 38, 28 (1890), S. 31;3;Berliner Pastorenroman;0;0;0;1;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;3;1;1;0;0;0;0;0;1890
+TR-Rez67;Moderne Dichtung 1,6 (1890), S. 390;3;Roman;0;0;0;1;0;0;1;0;0;0;0;0;0;1;2;2;0;0;0;0;0;0;-;0;0;0;0;0;0;0;0;3;0;0;0;1;0;0;0;1890
+TR-Rez68;Die christliche Welt 4, 5 (1890), Sp. 111-117;3;Tendenzroman, geistlicher Roman;1;0;1;2;1;0;1;1;0;0;0;0;0;1;2;1;0;1;0;0;0;14;-;1;1;2;0;1;0;0;0;1;0;0;0;0;0;0;0;1890
