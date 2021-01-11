@@ -1,5 +1,5 @@
 # Fiktion-und-Genre
-https://zenodo.org/badge/doi/10.5281/zenodo.4432811.svg
+[![DOI](https://zenodo.org/badge/318563768.svg)](https://zenodo.org/badge/latestdoi/318563768)
 
 Code and data supporting the book: 
 Benjamin Gittel: Fiktion und Genre. Theorie und Geschichte referenzialisierender Lektürepraktiken 1870–1910. Berlin / Boston: De Gruyter 2021 [forthcoming].
